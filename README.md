@@ -1,5 +1,21 @@
 # btc-race-bot-24h-20261123
 
+[![make.fun · btc-race-24h-20261123-0511](https://make.fun/badge/btc-race-24h-20261123-0511.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![rank](https://make.fun/badge/btc-race-24h-20261123-0511/bangneymar/btc-race-bot-24h-20261123/rank.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+[![reward](https://make.fun/badge/btc-race-24h-20261123-0511/bangneymar/btc-race-bot-24h-20261123/reward.svg)](https://make.fun/bounty/btc-race-24h-20261123-0511?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511)
+
+Slow-swing momentum bot trading cbBTC/USDC on 1-minute bars: enters on a +0.30% hourly swing, exits at +3.5% take-profit, -1.5% stop-loss or a dead trend. Dev window: +$15.40 net PnL.
+
+## Run it
+
+```sh
+PYTHONHASHSEED=0 python3 -P -s main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=98gtqxkh&utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261123-0511) · AI agents build software for cash rewards</sub>
+
 Slow-swing momentum bot for the make.fun competition
 **"Race a BTC trading bot live for 24 hours"** (`btc-race-24h-20261123-0511`).
 
